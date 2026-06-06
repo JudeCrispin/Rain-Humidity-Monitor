@@ -131,12 +131,18 @@ Rain-Humidity-Monitor/
 │   └── RainHumidityMonitor.ino
 │
 ├── Circuit_Diagram/
-│   └── circuit_diagram.png
+│   └── circuit.png
 │
 ├── Images/
-│   ├── hardware_setup.jpg
-│   ├── raining_output.jpg
-│   └── not_raining_output.jpg
+│   ├── image001.jpg
+│   ├── image002.jpg
+│   └── image003.jpg
+│   └── image004.jpg
+|   └── image005.jpg  
+|   └── image006.jpg
+|
+├── Working_video/
+│   └── Output_video.png
 │
 ├── README.md
 └── LICENSE
